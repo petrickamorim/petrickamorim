@@ -4,10 +4,6 @@
   Desenvolvedor Full Stack • Foco em soluções web • Estudante de ADS • Apaixonado por criar
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=petrickamorim&style=flat-square&color=purple" alt="Profile views" />
-</p>
-
 ---
 
 ### 💼 Sobre mim
@@ -19,11 +15,12 @@ Gosto de criar soluções completas, desde sistemas web e APIs até interfaces s
 Mas minha jornada com a tecnologia não fica só no lado profissional. Acredito de verdade que compartilhar conhecimento pode mudar vidas. Por isso, desenvolvi um projeto social onde ensinei HTML, CSS e JavaScript pra uma comunidade, ajudando pessoas a darem os primeiros passos no mundo da programação.
 
 No fim das contas, o que eu construo com código também carrega valores — como empatia, responsabilidade e a vontade constante de fazer algo melhor.
+
 ---
 
 ### 🛠️ Tecnologias que uso no dia a dia
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="40" height="40"/>
